@@ -1,0 +1,34 @@
+{
+    "fileName" : "Chicago Pizza Recomandation",
+    "refferenceBy" : "YOOXICMAN",
+    "formed" : "2024",
+    "PizzaList" : [
+        {
+            "name" : "Pizzeria Uno",
+            "recomandMenu" : "Meaty Legend",
+            "infomation" : "Maybe the the origin of a Chicago style deep dish pizza"
+        },
+        {
+            "name" : "Lou malnti's Pizzeria",
+            "recomandMenu" : [
+                "The Malnati Chicago Classic",
+                "The \"Lou\""
+            ],
+            "infomation" : "founder's sun made this place"
+        },
+        {
+            "name" : "Chicago Pizza and Oven Grinder Company",
+            "recomandMenu" : "Pizza Pot Pie",
+            "infomation" : "Very hot and lot of cheese"
+        },
+        {
+            "name" : "Pequod's Pizza",
+            "recomandMenu" : [
+                "Pepperoni",
+                "Sausage",
+                "Mushroom"
+            ],
+            "infomation" : "Only one menu you can order but able to choose toppings."
+        }
+    ]
+}
