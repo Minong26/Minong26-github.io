@@ -2,7 +2,7 @@
     "fileName" : "Chicago Pizza Recomandation",
     "refferenceBy" : "YOOXICMAN",
     "formed" : "2024",
-    "PizzaList" : [
+    "pizzaList" : [
         {
             "name" : "Pizzeria Uno",
             "recomandMenu" : "Meaty Legend",
